@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* CUSTOM CSS SECTION START */
+
+
+.aikyam-theme {
+  background-color: #2f9d99;
+}
+
+.aikyam-color {
+  color: #2f9d99;
+}
+
+.aikyam-theme-btn-1 {
+  background-color: #2f9d99;
+  border: 1px solid #2f9d99;
+
+}
+
+.aikyam-theme-btn-2 {
+
+  border: 1px solid #8fe2df;
+  color: #2f9d99;
+}
+
+
+
+
+.aikyam-theme-btn-1:hover {
+  background-color: #168985;
+  border: 1px solid #198c88;
+}
+
+.fill-blue-500 {
+  fill: #2f9d99;
+}
+
+
+.fill-blue-300 {
+  fill: #2f9d99;
+}
+
+.navbar:hover {
+  color: #2f9d99;
+}
+
+
+.ring-blue-600 {
+  --tw-ring-opacity: 1;
+  --tw-ring-color: #2f9d99;
+}
+
+.ring-blue-megha {
+  --tw-ring-opacity: 1;
+  --tw-ring-color: #1da668;
+}
+
+
+.fill-blue-t4g {
+  fill: #41ded8;
+}
+
+
+
+.fill-blue-t4g {
+  fill: #41ded8;
+}
+
+
+.fill-blue-aikyam-rect {
+  fill: #4fc5c3;
+}
+
+.fill-blue-aikyam-circle {
+  fill: #187775;
+}
+
+
+
+
+/* conic-gradient(from -49.8deg at 50% 50%, #8cddd6 0deg, #0ecf2b 59.07deg, #88c572 185.61deg, #009688 284.23deg, #239e92 329.41deg, #8de1d9 360deg) */
