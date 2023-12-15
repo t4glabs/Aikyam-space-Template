@@ -79,6 +79,66 @@
 }
 
 
+.border-style-aikyam{
+  border-radius: 22px;
 
+}
+
+/* #testimonials_btn:hover{
+  text-decoration: underline;
+} */
+
+
+
+#testimonials_btn{
+  transition: 1s ease;
+  }
+  
+  #testimonials_btn:hover{
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  transition: 1s ease;
+  background-color: #45b9b5;
+  padding: 12px;
+  border-radius: 20px;
+  color: rgb(13, 1, 1);
+  }
+  
+
+  #btn{
+    transition: 1s ease;
+    }
+    
+    #btn:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+    background-color: #45b9b5;
+    padding: 12px;
+    border-radius: 20px;
+    color: rgb(13, 1, 1);
+    }
+
+
+
+
+
+    #aikyam-btn{
+      transition: 1s ease;
+    }
+
+
+    #aikyam-btn:hover{
+      -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+      transform: scale(1.2);
+      transition: 1s ease;
+      background-color: #45b9b5;
+      padding: 12px;
+      border-radius: 20px;
+      color: rgb(13, 1, 1);
+      }
 
 /* conic-gradient(from -49.8deg at 50% 50%, #8cddd6 0deg, #0ecf2b 59.07deg, #88c572 185.61deg, #009688 284.23deg, #239e92 329.41deg, #8de1d9 360deg) */
