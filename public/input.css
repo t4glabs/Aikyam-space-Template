@@ -141,4 +141,12 @@
       color: rgb(13, 1, 1);
       }
 
+
+
+      .cover-img-style{
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgb(0 0 0) ;
+      }
+
+
 /* conic-gradient(from -49.8deg at 50% 50%, #8cddd6 0deg, #0ecf2b 59.07deg, #88c572 185.61deg, #009688 284.23deg, #239e92 329.41deg, #8de1d9 360deg) */
