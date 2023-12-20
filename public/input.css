@@ -22,7 +22,7 @@
 
 .aikyam-theme-btn-2 {
 
-  border: 1px solid #8fe2df;
+  border: 1px solid #4dc9c5;
   color: #2f9d99;
 }
 
@@ -144,8 +144,8 @@
 
 
       .cover-img-style{
-        border-radius: 12px;
-        box-shadow: 0 2px 8px rgb(0 0 0) ;
+        border-radius: 8px;
+        /* box-shadow: 0 2px 8px rgb(0 0 0) ; */
       }
 
 

@@ -3,6 +3,8 @@
 
 	
 
+	
+
 let contents1=document.getElementById("box1");
 let contents2=document.getElementById("box2");
 let btn=document.getElementById("btn");
