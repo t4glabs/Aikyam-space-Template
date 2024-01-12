@@ -200,4 +200,54 @@
   transform: scale(1.2);
   transition: 1s ease;
   }
+
+
+  /* Location  */
+
+  
+.location-style{
+  width: 1250px;
+  height: 400px;
+  }
+  
+  
+  @media only screen and (max-width: 1356px) {
+    .location-style{
+      width: 800px;
+      height: 400px;
+      }
+      
+  }
+  
+  @media only screen and (max-width: 956px) {
+    .location-style{
+      width: 600px;
+      height: 400px;
+      }
+      
+  }
+  @media only screen and (max-width: 500px) {
+    .location-style{
+      width: 350px;
+      height: 300px;
+      }
+      
+  }
+  
+  .location-div{
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  
+  
+  /* ********** */
+  
+  
+  .text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+  
 /* conic-gradient(from -49.8deg at 50% 50%, #8cddd6 0deg, #0ecf2b 59.07deg, #88c572 185.61deg, #009688 284.23deg, #239e92 329.41deg, #8de1d9 360deg) */
