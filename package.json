@@ -1,7 +1,8 @@
 {
-  "name": "bastar-se-bazaar",
+  "name": "Aikyam Space",
   "version": "1.0.0",
-  "description": "Bastar Se Bazaar Tak",
+  "description": "Aikyam Space",
+
   "main": "index.js",
   "scripts": {
     "build-css": "npx tailwindcss -i ./public/input.css -o ./output.css --watch"
